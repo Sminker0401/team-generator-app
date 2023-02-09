@@ -1,5 +1,5 @@
 {
-  "name": "Team-Generator",
+  "name": "team-generator",
   "version": "1.0.0",
   "description": "OOP",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "",
-    "url": "git+https://github.com/Sminker0401/team-profile-generator"
+    "url": "git+https://github.com/Sminker0401/team-profile-generator.git"
   },
   "author": "",
   "license": "ISC",
@@ -23,5 +23,9 @@
   },
   "devDependencies": {
     "jest": "^29.4.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Sminker0401/team-profile-generator/issues"
+  },
+  "keywords": []
 }

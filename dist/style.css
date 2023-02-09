@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(233, 158, 229);
+}
+.jumbotron {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(145, 85, 145);
+}
+.card {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  justify-content: center;
+  background-color: rgb(221, 197, 220);
+  display: flex;
+  margin: 3rem;
+}
+
+.card-title {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  justify-content: center;
+}
